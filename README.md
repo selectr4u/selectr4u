@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi! im cam :bear:
 
-<!--
-**selectr4u/selectr4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm currently taking a levels and also working on the little odd thing here and there!
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=python,lua,cs,go,c&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+right now:
+- i'm currently learning C more in depth and refining Go and C# skills
+- i'm currently working on small little libraries for different programming languages 
+- i'm also making games! 🎮
+- fun fact: i love dogs, cats, bears, anything fluffy really! 😺 🐶 🐻 🐰
+- i'm also a libra ♎
+- pronouns: he/him
