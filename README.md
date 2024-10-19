@@ -2,7 +2,7 @@
 
 i'm currently taking a levels and also working on the little odd thing here and there!
 
-[![My Skills](https://skillicons.dev/icons?i=python,lua,cs,go,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,lua,cs,go,c,ts&theme=dark)](https://skillicons.dev)
 
 right now:
 - i'm currently learning C more in depth and refining Go and C# skills
