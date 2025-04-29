@@ -1,13 +1,10 @@
 ## hi! im cam :bear:
 
-i'm currently taking a levels and also working on the little odd thing here and there!
+i'm currently taking a levels
 
 [![My Skills](https://skillicons.dev/icons?i=go,lua,cs,c,ts,rust&theme=dark)](https://skillicons.dev)
 
 right now:
-- i'm currently learning nim
-- i'm currently working on small little libraries for different programming languages 
-- i'm also making games! 🎮
+- i'm currently working on small little project to enhance my theory knowledge in computer science
 - fun fact: i love dogs, cats, bears, anything fluffy really! 😺 🐶 🐻 🐰
-- i'm also a libra ♎
 - pronouns: he/him
