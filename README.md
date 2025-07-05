@@ -1,10 +1,9 @@
-## hi! im cam :bear:
+## hi! i'm cameron
 
-i'm currently taking a levels
+i'm currently taking a levels (maths, politics and computer science)
 
 [![My Skills](https://skillicons.dev/icons?i=go,lua,cs,c,ts,rust&theme=dark)](https://skillicons.dev)
 
 right now:
-- i'm currently working on small little project to enhance my theory knowledge in computer science
-- fun fact: i love dogs, cats, bears, anything fluffy really! 😺 🐶 🐻 🐰
-- pronouns: he/him
+- revising for exams
+- creating projects that expand upon my a level computer science knowledge and out of curriculum knowledge
