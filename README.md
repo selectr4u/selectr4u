@@ -1,5 +1,5 @@
 ## hi! i'm cameron
 
-currently studying a levels
+currently studying a-levels
 
-[![my languages](https://skillicons.dev/icons?i=cs,c,cpp,go,lua,rust&theme=dark)](https://skillicons.dev)
+[![my languages](https://skillicons.dev/icons?i=c,cpp,go,lua&theme=dark)](https://skillicons.dev)
